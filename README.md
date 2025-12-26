@@ -1,6 +1,6 @@
 # OpenGL Graphics Assessment
 
-Key Features
+**Key Features**
 
 Real-time rendering using OpenGL
 
@@ -14,7 +14,7 @@ Basic camera and scene setup
 
 Debugging and validation of rendering output
 
-Technologies Used
+**Technologies Used**
 
 C++
 
@@ -24,7 +24,7 @@ GLSL (Shader Programming)
 
 Visual Studio
 
-My Contributions
+**My Contributions**
 
 Implemented rendering logic using modern OpenGL
 
@@ -48,7 +48,7 @@ Mathematical reasoning applied to real-time graphics
 
 Clean, structured C++ code for rendering systems
 
-How to Build and Run
+**How to Build and Run**
 
 Ensure you have a C++ compiler and OpenGL-compatible environment.
 
@@ -61,5 +61,6 @@ Open the solution in Visual Studio.
 Build and run the project to view the rendered output.
 
 
-Screenshots
-https://imgur.com/a/0CmZKql
+**Screenshots**
+
+![OpenGlAppImage](https://imgur.com/a/0CmZKql)
