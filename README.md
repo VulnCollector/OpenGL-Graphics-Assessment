@@ -63,4 +63,4 @@ Build and run the project to view the rendered output.
 
 **Screenshots**
 
-![OpenGlAppImage](https://imgur.com/a/0CmZKql)
+![OpenGlAppImage](TZoqifH.png)
